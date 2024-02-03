@@ -1,0 +1,28 @@
+div{
+    margin-bottom: 100px;
+}
+textarea{
+    height: auto;
+    width: 100%;
+    font-size: 30px;
+}
+button{
+    height: 100px;
+    width: 200px;
+    font-size: 50px;
+    display: inline-block;
+}
+select{
+    height: 100px;
+    width: 300px;
+    font-size: 200%;
+}
+
+#btnGroup{
+    display: flex;
+    justify-content: space-between;
+}
+option {
+  appearance: none;
+  font-size: 20px;
+}

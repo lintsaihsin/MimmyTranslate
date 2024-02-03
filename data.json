@@ -1,0 +1,14 @@
+var category =[
+    { "id": "c1", "name": "v1"},
+    { "id": "c2", "name": "v2"},
+    { "id": "c3", "name": "v3"},
+    { "id": "c4", "name": "v4"},
+    { "id": "c5", "name": "v5"},
+]
+var translation =[
+    { "dp":"c1", "chinese": "s1", "korean": "p1"},
+    { "dp":"c2", "chinese": "s2", "korean": "p2"},
+    { "dp":"c3", "chinese": "s3", "korean": "p3"},
+    { "dp":"c4", "chinese": "s4", "korean": "p4"},
+    { "dp":"c5", "chinese": "s5", "korean": "p5"},
+]
